@@ -1076,17 +1076,17 @@ form label {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
-  border-radius: 25%;
+  border-radius: 50%;
   width: 150px;
-  height: 150px;
+  height: 200px;
 }
 .couple-half .groom img, .couple-half .bride img {
   width: 150px;
-  height: 150px;
+  height: 200px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
-  border-radius: 25%;
+  border-radius: 50%;
 }
 @media screen and (max-width: 480px) {
   .couple-half .groom, .couple-half .bride {
