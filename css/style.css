@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(0, 0, 0, 0.5);
 }
 .fh5co-cover > .fh5co-container {
-  position: relative;
+  background-position: center center !important;
   z-index: 10;
 }
 @media screen and (max-width: 768px) {
